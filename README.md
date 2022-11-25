@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="docs/bitgener.png" alt="Bitgener"/>
-<p>
 
 <p align="center">
   A lightweight and zero-dependencies pure js DataMatrix code generator.
