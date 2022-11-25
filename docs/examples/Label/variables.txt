@@ -1,0 +1,3 @@
+var oemArticleNum = "77 43 8 562 407-05";
+var supplierNum = "136 808-10";
+var serialNum = 9503;
